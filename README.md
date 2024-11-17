@@ -23,24 +23,22 @@ This experiment involves creating an AWS account, configuring security settings 
  ### Step 7:
  Review and Create IAM User</br>
 
-### REG NUMBER:212222110057
-### NAME: YUVARANI T
+### REG NUMBER:212222110056
+### NAME: YUVA KRISHNA K
 
 ## OUTPUT
 
 ### ROOT USER:
-![{1E912806-CEFE-41A4-8E36-D632997869DE}](https://github.com/user-attachments/assets/e23556ac-e4de-49c7-af5f-7ff3c19c865f)
+![image](https://github.com/user-attachments/assets/72fe0b8c-aece-468d-9602-31c16cb3e883)
 
- ![{14252A28-22C8-4B1C-94FA-219B093262A1}](https://github.com/user-attachments/assets/18e18f91-811f-4796-bcdc-a014a17c1cb9)
+![image](https://github.com/user-attachments/assets/a601ea4c-4298-449d-8e88-d894c1d80e46)
 
  ### IAM USER:
- ![{5305B003-C9DF-4C2F-8091-F692028E2449}](https://github.com/user-attachments/assets/f5f23e89-5bfc-477e-8adf-151e0571e5b0)
+![image](https://github.com/user-attachments/assets/e7c397ee-a9a4-49f6-8f7d-8f952c3b4f6a)
 
-![{0AA22C48-1DBF-46E2-9D25-377EBB39DB89}](https://github.com/user-attachments/assets/0ed40261-de9d-4d27-8b78-3dd12c50e056)
+![IAM USER](https://github.com/user-attachments/assets/a81214b2-4c1b-4afa-96b7-8251edeb80fb)
 
 ## RESULT
 The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account. 
 
   
-
-
